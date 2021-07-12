@@ -1,0 +1,22 @@
+body
+{
+height:500px;
+width:500px;
+background-position:center;
+background-image:url('library.jpg');
+margin:40px auto;
+background-repeat:no-repeat;
+}
+h1
+{
+color:red;
+text-align:center;
+}
+#container
+{
+margin-top:50px;
+height:200px;
+width:300px;
+margin-left:350px;
+color:white;
+}
